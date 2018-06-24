@@ -1,0 +1,14 @@
+C:\Users\LAZ\Desktop\GIS程序设计\16级\深度融合\MapControlApplication1\MapControlApplication1\bin\Debug\MapControlApplication1.exe
+C:\Users\LAZ\Desktop\GIS程序设计\16级\深度融合\MapControlApplication1\MapControlApplication1\bin\Debug\MapControlApplication1.pdb
+C:\Users\LAZ\Desktop\GIS程序设计\16级\深度融合\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csprojResolveAssemblyReference.cache
+C:\Users\LAZ\Desktop\GIS程序设计\16级\深度融合\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.EliminatorForm.resources
+C:\Users\LAZ\Desktop\GIS程序设计\16级\深度融合\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.MainForm.resources
+C:\Users\LAZ\Desktop\GIS程序设计\16级\深度融合\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.Properties.Resources.resources
+C:\Users\LAZ\Desktop\GIS程序设计\16级\深度融合\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csproj.GenerateResource.Cache
+C:\Users\LAZ\Desktop\GIS程序设计\16级\深度融合\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.exe
+C:\Users\LAZ\Desktop\GIS程序设计\16级\深度融合\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.pdb
+C:\Users\LAZ\Desktop\GIS程序设计\16级\深度融合\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.DataBoard.resources
+C:\Users\LAZ\Desktop\GIS程序设计\16级\深度融合\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.CreateNewSHP.resources
+C:\Users\LAZ\Desktop\GIS程序设计\16级\深度融合\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.Query.resources
+C:\Users\LAZ\Desktop\GIS程序设计\16级\深度融合\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.RendererForm.resources
+C:\Users\LAZ\Desktop\GIS程序设计\16级\深度融合\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.EditFieldsForm.resources
